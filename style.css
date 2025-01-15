@@ -1,0 +1,11 @@
+.star {
+    color: red;
+}
+
+.required {
+    border: 2px solid red;
+}
+
+.valid {
+    border: 2px solid green;
+}
